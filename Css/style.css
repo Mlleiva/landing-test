@@ -9,7 +9,7 @@ body {
     content: '';
     height: 100vh;
     width: 100%;
-    background-image: url(../Img/header_bg.jpg);
+    background-image: url(../Img/bagley00.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -32,9 +32,9 @@ body {
 .header-content {
     position: absolute;
     z-index: 1;
-    top: 10%;
+    top: 5%;
     left: 47%;
-    margin-top: 105px;
+    margin-top: 0px;
     margin-left: -145px;
     text-align: center;
     width: 350px;
@@ -52,11 +52,13 @@ body {
 .title {
     font-family: 'Oswald', sans-serif;
     font-size: 2rem;
+   
 }
 
 .text {
     line-height: 1.7;
-    margin-top: 1rem;
+    margin-top: 2rem;
+    
 }
 
 .container {
